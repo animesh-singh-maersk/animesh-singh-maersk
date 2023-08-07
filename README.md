@@ -2,25 +2,32 @@
   <img style="height: 40vh;" src="https://images.unsplash.com/photo-1552508744-1696d4464960?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"/>
 </p>
 
-<h1 style="display:inline-block;width:80vw;"> Hey there! I'm Animesh 👋 </h1>
-<div style="display:inline;float:right;" >
-<a href="https://animesh28-portfolio.netlify.app">
+# Hey there! I'm Animesh 👋
 
-```html
-<>
-```
-
-</a>
-</div>
 <main style="padding: 0 5vw;">
+<table>
+<tr>
+    <td >
+      <h3 align="left">About me:</h3>
+      <p align="left">
+        <a href="https://animesh28-portfolio.netlify.app" style="margin: 0 5px" target="_blank" >
+          <img src="./images/port.svg" width="30" height="30" alt="View Portfolio"/>
+        </a>
+        <a href="https://instagram.com/words.healer" style="margin: 0 5px" target="_blank" >
+          <img src="./images/writer.svg" width="30" height="30" alt="View Portfolio"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
   <table>
-    <tr >
+  <tr >
   <td >
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
         href="https://linkedin.com/in/animesh-singh-02a9b417b"
-        target="blank"
+        target="_blank"
         style="margin: 0 5px"
         ><img
           align="center"
@@ -32,7 +39,7 @@
       </a>
       <a
         href="https://instagram.com/_ani_mesh._"
-        target="blank"
+        target="_blank"
         style="margin: 0 5px"
         ><img
           align="center"
@@ -43,7 +50,7 @@
       /></a>
       <a
         href="https://www.leetcode.com/user3781jp"
-        target="blank"
+        target="_blank"
         style="margin: 0 5px"
         ><img
           align="center"
@@ -54,7 +61,7 @@
       /></a>
       <a
         href="https://auth.geeksforgeeks.org/user/animeshrajom"
-        target="blank"
+        target="_blank"
         style="margin: 0 5px"
         ><img
           align="center"
@@ -167,7 +174,7 @@
     </p>
   </td>
   <td>
-    <img src="./developer.gif" alt="dev" width="308px" height=""/>
+    <img src="./images/developer.gif" alt="dev" width="308px" height=""/>
   </td>
       <tr/>
     </table>
@@ -208,8 +215,89 @@ console.log("Welcome to my world 🌎");
   - Position: Wordpress Developer
   - Duration: Oct 2020 - Nov 2020
 
-## Projects
+## Sample Work
 
 <details>
-  <summary>1</summary>
+  <summary>Paperhood</summary>
+  <table>
+    <tr>
+      <td>
+        <img src="./images/paperhood.gif">
+      </td>
+      <td>
+        <img src="./images/paperhood-mobile.png" height="400px">
+      </td>
+    </tr>
+    <p align="center">    
+      <a href="http://paperhood.netlify.app/" target="_blank">Visit Now</a>
+    </p>
+  </table>
+</details>
+
+<details>
+  <summary>Windor</summary>
+  <table>
+    <tr>
+      <td>
+        <img src="./images/windor.gif">
+      </td>
+      <td>
+        <img src="./images/windor-mobile.png" height="400px">
+      </td>
+    </tr>
+    <p align="center" >    
+      <a href="https://windor.webalar.tech/" target="_blank" >Visit Now</a>
+    </p>
+  </table>
+</details>
+
+<details>
+  <summary>Disney+ Clone</summary>
+  <table>
+    <tr>
+      <td>
+        <img src="./images/disney-mac.gif" height="400px">
+      </td>
+      <td>
+        <img src="./images/disney-mobile.png" height="400px">
+      </td>
+    </tr>
+    <p align="center" >    
+      <a href="https://disneyplus-clone-fe126.web.app/" target="_blank" >Visit Now</a>
+    </p>
+  </table>
+</details>
+
+<details>
+  <summary>Natours</summary>
+  <table>
+    <tr>
+      <td>
+        <img src="./images/natours-form.png" height="400px">
+      </td>
+      <td>
+        <img src="./images/natours-vid.gif" height="400px">
+      </td>
+    </tr>
+    <p align="center">    
+      <a href="https://animesh28.github.io/Natours/" target="_blank" >Visit Now</a>
+    </p>
+  </table>
+</details>
+
+<details>
+  <summary>Portfolio - Explore More</summary>
+  <table>
+    <tr>
+      <td>
+        <img src="./images/portfolio.png" height="400px">
+      </td>
+      <td>
+        <img src="./images/portfolio-mobile.png" height="400px">
+      </td>
+    </tr>
+    <p align="center">    
+      <a href="https://animesh28-portfolio.netlify.app/" target="_blank" >Visit Now</a>
+    </p>
+  </table>
 </details>
